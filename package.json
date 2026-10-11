@@ -1,0 +1,25 @@
+{
+  "name": "tiny-schema-gate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny schema gate for structured LLM output in TypeScript: validate, one repair, accept or reject. Mock model, no API key.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Bobby Hall Jr (https://bhjr.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyhalljr/tiny-schema-gate.git"
+  },
+  "scripts": {
+    "start": "tsx gate.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
