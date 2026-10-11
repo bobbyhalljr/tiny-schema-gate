@@ -29,6 +29,10 @@ npx tsc --noEmit
 
 The fixtures and numbers are **example inputs**, not measurements of any real model.
 
+## Write-up
+
+- Dev.to: https://dev.to/bobbyhalljr/your-structured-output-passed-once-build-a-tiny-schema-gate-in-typescript-gf8
+
 ## License
 
 MIT
