@@ -32,6 +32,7 @@ The fixtures and numbers are **example inputs**, not measurements of any real mo
 ## Write-up
 
 - Dev.to: https://dev.to/bobbyhalljr/your-structured-output-passed-once-build-a-tiny-schema-gate-in-typescript-gf8
+- Substack: https://bobbyhalljr.substack.com/p/your-structured-output-passed-once
 
 ## License
 
